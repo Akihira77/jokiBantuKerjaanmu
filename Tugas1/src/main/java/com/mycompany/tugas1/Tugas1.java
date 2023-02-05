@@ -1,17 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
- */
-
 package com.mycompany.tugas1;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
-
-/**
- *
- * @author Akihira 17
- */
 
 // interface
 interface Calculate {

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.mycompany.tugas1</groupId>
-    <artifactId>Tugas1</artifactId>
+    <groupId>com.mycompany.tugas2</groupId>
+    <artifactId>Tugas2</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>16</maven.compiler.source>
         <maven.compiler.target>16</maven.compiler.target>
-        <exec.mainClass>com.mycompany.tugas1.Tugas1</exec.mainClass>
+        <exec.mainClass>com.mycompany.tugas2.Tugas2</exec.mainClass>
     </properties>
-    <name>TugasAnggrio1</name>
+    <name>TugasAnggrio2</name>
 </project>
